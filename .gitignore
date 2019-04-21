@@ -1,0 +1,13 @@
+# Mac
+.DS_Store
+
+# Intellij
+*.log
+*.iml
+*.ipr
+*.iws
+.idea
+
+# sbt
+target/
+build/
