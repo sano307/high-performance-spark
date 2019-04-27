@@ -21,3 +21,4 @@ sbt "runMain example.{CHAPTER_DIRECTORY}.Boot"
 ## List of CHAPTER_DIRECTORY
 
 - c02
+- c03
